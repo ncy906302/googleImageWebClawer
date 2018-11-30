@@ -13,7 +13,7 @@ from urllib.parse import quote
 import time
 import json
 import socket
-socket.setdefaulttimeout(5)
+socket.setdefaulttimeout(10)
 
 
 # In[ ]:
