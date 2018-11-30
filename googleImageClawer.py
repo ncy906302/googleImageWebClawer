@@ -69,7 +69,7 @@ def downloadImage(word,scroll):
         
         n+=1
     print('|')
-    print('組共讀到'+str(len(list))+'，成功下載'+str(page)+'張')
+    print('總共爬到'+str(len(list))+'張，成功下載'+str(page)+'張')
     print('finist')
 
 
